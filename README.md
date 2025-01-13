@@ -11,6 +11,7 @@ Currently, two official plugins are available:
 # IMAD-MANNI-Portfolio
 >>>>>>> 739862e339f8bd3e658de1f9fd236ea79212803d
 PROJECT PREVIEW . MP4 : https://github.com/user-attachments/assets/6aa7a1a0-680e-4558-8f8f-89eb1c0a6e10
+>>>>>>> ![project preview2](https://github.com/user-attachments/assets/52957580-7ee1-4cee-9182-bde81c41c62f)
 
 UI PICTURES : ![p1](https://github.com/user-attachments/assets/987cdff8-0db1-46c7-a931-8aa98c2dc910)
 ![p2](https://github.com/user-attachments/assets/daf36a89-d615-4333-9e7f-40dc924e5a4f)
